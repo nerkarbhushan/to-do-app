@@ -72,7 +72,7 @@ _Screenshot of the To-Do List app on Mobile device._
 
 ## Try it Online 💻
 
-You can try the To Do List application online by following [this link](https://nerkarbhushan-to-do-app/).
+You can try the To Do List application online by following [this link](https://nerkarbhushan-to-do-app.netlify.app/).
 
 ## Feedback and Support 💌
 
