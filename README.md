@@ -17,7 +17,7 @@ The To-Do List app is a simple and efficient task management tool that helps you
 
 ## Screenshots 📸
 
-![Screenshot 1](screenshots/Screenshot 1.jpg)
+![Screenshot 1](screenshots/Screenshot_1.png)
 _Screenshot of the To-Do List app showing registration process with name and email._
 
 ![Screenshot 2](screenshots/Screenshot 2.jpg)
